@@ -1,4 +1,4 @@
-<a href="https://clarafold.com"><img src="https://clarafold.com/assets/og-image.png" alt="Clarafold — Illuminate what matters." width="100%"></a>
+<a href="https://clarafold.com"><img src="./assets/banner.svg" alt="Aman Istwal — GTM engineer, Founder & CEO of Clarafold" width="100%"></a>
 
 # Hi, I'm Aman 👋
 
