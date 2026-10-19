@@ -44,12 +44,75 @@ I was a filmmaker before I was a marketer. A film only works when every scene ea
 
 `GTM Engineering` · `Claude Code` · `Agent Skills` · `MCP` · `n8n` · `APIs & automation` · `CRM / RevOps` · `ABM` · `Lead magnets & nurture` · `HTML / JS`
 
-### ✍️ Recent writing
+### ✍️ Writing
 
-- [From Marketing Activity to GTM Intelligence](https://medium.com/@aciddun/from-marketing-activity-to-gtm-intelligence-how-i-built-a-behavioral-intelligence-system-using-3408d9efc3a7) — building a GTM intelligence system in ~1.5 hours
+<!-- WRITING:START -->
+
+25 articles on [clarafold.com/insights](https://clarafold.com/insights). Practical, sourced and written for teams selling into hard B2B markets.
+
+**Latest**
+
+- [llms.txt for B2B Websites: What It Does, What It Doesn't, and How to Write One](https://clarafold.com/insights/llms-txt-for-b2b) · `AI`
+- [GTM Agency or First Marketing Hire? How Seed to Series B Teams Should Choose](https://clarafold.com/insights/gtm-agency-or-first-marketing-hire) · `GTM`
+- [ABM or Outbound First? A Decision Rule for Complex B2B](https://clarafold.com/insights/abm-or-outbound-first) · `ABM`
+- [Vertical SaaS Positioning: Sell the Workflow, Not the Platform](https://clarafold.com/insights/vertical-saas-positioning) · `GTM`
+- [Test AI GTM Workflows Like Software Before Anyone Trusts the Output](https://clarafold.com/insights/test-ai-workflows-like-software) · `AI`
+
+**All articles by topic**
+
+<details><summary><b>GTM</b> · 4</summary>
+
+- [GTM Agency or First Marketing Hire? How Seed to Series B Teams Should Choose](https://clarafold.com/insights/gtm-agency-or-first-marketing-hire)
+- [Vertical SaaS Positioning: Sell the Workflow, Not the Platform](https://clarafold.com/insights/vertical-saas-positioning)
+- [Diagnose Before You Automate: Where B2B GTM Actually Gets Stuck](https://clarafold.com/insights/diagnose-before-you-automate)
+- [Why More Marketing Activity Doesn't Necessarily Create More Pipeline](https://clarafold.com/insights/marketing-activity-pipeline)
+
+</details>
+<details><summary><b>ABM</b> · 5</summary>
+
 - [ABM or Outbound First? A Decision Rule for Complex B2B](https://clarafold.com/insights/abm-or-outbound-first)
-- [GTM Agency or First Marketing Hire?](https://clarafold.com/insights/gtm-agency-or-first-marketing-hire)
-- [llms.txt for B2B Websites](https://clarafold.com/insights/llms-txt-for-b2b)
+- [Map the Buying Committee Before You Run ABM](https://clarafold.com/insights/map-the-buying-committee)
+- [Intent Beats List Size: Why Small Segments Outperform Big Sends](https://clarafold.com/insights/intent-beats-list-size)
+- [Competitive Account Intelligence: Grade Your Evidence](https://clarafold.com/insights/grade-your-evidence)
+- [ABM Starts With Account Selection](https://clarafold.com/insights/abm-account-selection)
+
+</details>
+<details><summary><b>Outbound</b> · 3</summary>
+
+- [Cold Email Deliverability: The Setup Before the Sequence](https://clarafold.com/insights/cold-email-deliverability-setup)
+- [Lead Magnets Should Qualify Buyers, Not Just Capture Emails](https://clarafold.com/insights/lead-magnets-that-qualify)
+- [Outbound Is a System, Not a Sequence](https://clarafold.com/insights/outbound-is-a-system)
+
+</details>
+<details><summary><b>RevOps</b> · 3</summary>
+
+- [Lead Scoring Sales Will Trust: Separate Fit From Intent](https://clarafold.com/insights/lead-scoring-fit-and-intent)
+- [The Marketing Metrics That Quietly Lie](https://clarafold.com/insights/metrics-that-lie)
+- [RevOps Is the Infrastructure Behind GTM](https://clarafold.com/insights/revops-infrastructure)
+
+</details>
+<details><summary><b>Content</b> · 4</summary>
+
+- [Build an Owned Audience: Why B2B Teams Need a Newsletter Before Another Channel](https://clarafold.com/insights/build-an-owned-audience)
+- [Distribution Before Content: Go Where Attention Already Is](https://clarafold.com/insights/distribution-before-content)
+- [Community-Led GTM for Technical Buyers](https://clarafold.com/insights/community-led-gtm-technical-buyers)
+- [Founder-Led Content Is Becoming a GTM System](https://clarafold.com/insights/founder-led-content)
+
+</details>
+<details><summary><b>AI</b> · 6</summary>
+
+- [llms.txt for B2B Websites: What It Does, What It Doesn't, and How to Write One](https://clarafold.com/insights/llms-txt-for-b2b)
+- [Test AI GTM Workflows Like Software Before Anyone Trusts the Output](https://clarafold.com/insights/test-ai-workflows-like-software)
+- [Is Your Website Invisible to AI Assistants?](https://clarafold.com/insights/invisible-to-ai-search)
+- [Human-in-the-Loop Agents: Why Every Outbound Message Should Be Approved](https://clarafold.com/insights/human-in-the-loop-agents)
+- [Agent Skills: How to Give Your AI Your GTM Playbook](https://clarafold.com/insights/agent-skills-for-gtm)
+- [What AI Changes About B2B GTM](https://clarafold.com/insights/what-ai-changes)
+
+</details>
+
+<!-- WRITING:END -->
+
+Also on Medium: [From Marketing Activity to GTM Intelligence](https://medium.com/@aciddun/from-marketing-activity-to-gtm-intelligence-how-i-built-a-behavioral-intelligence-system-using-3408d9efc3a7), building a GTM intelligence system in ~1.5 hours.
 
 ---
 
