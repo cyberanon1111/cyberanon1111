@@ -26,15 +26,19 @@ I was a filmmaker before I was a marketer. A film only works when every scene ea
 - **61.6% DM reply rate** — 77 replies from 125 comment-first LinkedIn DMs ([case study](https://clarafold.com/case-studies/comment-first-linkedin-outreach))
 - **60% vs 29% opens** — same email, opted-in audience vs broadcast ([case study](https://clarafold.com/case-studies/intent-audience-vs-broadcast))
 
-### 📂 Free workflows (open playbooks)
+### 📂 Start here
 
-| Workflow | What it does | Time |
-|---|---|---|
-| [ICP Research](https://clarafold.com/workflows/icp-research) | Researches a segment, finds decision-makers, structures account intelligence | 2–4 hrs / segment |
-| [Outbound Personalization](https://clarafold.com/workflows/outbound-personalization) | Finds account signals and turns them into inputs a sequence can use | 5–10 min / account |
-| [LinkedIn Content Research](https://clarafold.com/workflows/linkedin-content-research) | Turns market signals and customer problems into content research | 2–3 hrs / cycle |
+| Repo | What's inside |
+|---|---|
+| 🧠 **[clarafold-gtm-skills](https://github.com/cyberanon1111/clarafold-gtm-skills)** | 5 free GTM workflows as agent skills for Claude, Claude Code, Codex and Cursor: ICP research, outbound personalization, LinkedIn content research, lead enrichment, account prioritization |
+| 🏢 **[clarafold](https://github.com/cyberanon1111/clarafold)** | The Clarafold portfolio: services and pricing, 15 case studies with real numbers, how an engagement works, 25 insights |
+| ⭐ **[awesome-ai-gtm](https://github.com/cyberanon1111/awesome-ai-gtm)** | A curated list of 30+ open-source repos for AI-powered B2B go-to-market: skills, MCP, automation, research, RevOps, email |
 
-→ [Browse the full workflow library](https://clarafold.com/workflows) · [The open-source GTM shelf](https://clarafold.com/community)
+### 🧩 What Clarafold does
+
+**[Diagnosis Sprint](https://clarafold.com/diagnosis-sprint)** (10 days, fixed fee) → then **[LinkedIn Growth Engine](https://clarafold.com/linkedin-growth)** · **[Automated Outbound](https://clarafold.com/services/outbound)** · **[RevOps](https://clarafold.com/services/revops)** · **[ABM Programs](https://clarafold.com/services/abm)** · **[GTM Strategy](https://clarafold.com/services/gtm-strategy)** · **[AI Search Visibility](https://clarafold.com/ai-search-visibility)**
+
+→ [All 15 case studies](https://clarafold.com/customers) · [Free workflows](https://clarafold.com/workflows) · [Insights](https://clarafold.com/insights)
 
 ### 🧰 Toolkit
 
