@@ -52,79 +52,79 @@ I was a filmmaker before I was a marketer. A film only works when every scene ea
 
 **Latest**
 
-- [Writing for Technical Buyers: Proof Over Claims](https://clarafold.com/insights/content-for-technical-buyers) · `Content`
-- [Win-Loss Interviews: The Cheapest GTM Research You Are Not Doing](https://clarafold.com/insights/win-loss-interviews) · `GTM`
-- [The One-Page Account Plan: What to Write Before the First Touch](https://clarafold.com/insights/one-page-account-plan) · `ABM`
-- [Signal-Based Outbound: Which Triggers Are Worth Acting On](https://clarafold.com/insights/signal-based-outbound-triggers) · `Outbound`
-- [One Expert Interview, a Month of B2B Content](https://clarafold.com/insights/one-expert-interview-content) · `Content`
+- [Writing for technical buyers: proof over claims](https://clarafold.com/insights/content-for-technical-buyers) · `Content`
+- [Win-loss interviews: the cheapest GTM research you are not doing](https://clarafold.com/insights/win-loss-interviews) · `GTM`
+- [The one-page account plan: what to write before the first touch](https://clarafold.com/insights/one-page-account-plan) · `ABM`
+- [Signal-based outbound: which triggers are worth acting on](https://clarafold.com/insights/signal-based-outbound-triggers) · `Outbound`
+- [One expert interview, a month of B2B content](https://clarafold.com/insights/one-expert-interview-content) · `Content`
 
 **All articles by topic**
 
 <details><summary><b>GTM</b> · 7</summary>
 
-- [Win-Loss Interviews: The Cheapest GTM Research You Are Not Doing](https://clarafold.com/insights/win-loss-interviews)
-- [Build Your ICP From Closed-Won Deals, Not Personas](https://clarafold.com/insights/icp-from-closed-won)
-- [A 90-Day GTM Plan for Seed to Series B Companies](https://clarafold.com/insights/90-day-gtm-plan)
-- [GTM Agency or First Marketing Hire? How Seed to Series B Teams Should Choose](https://clarafold.com/insights/gtm-agency-or-first-marketing-hire)
-- [Vertical SaaS Positioning: Sell the Workflow, Not the Platform](https://clarafold.com/insights/vertical-saas-positioning)
-- [Diagnose Before You Automate: Where B2B GTM Actually Gets Stuck](https://clarafold.com/insights/diagnose-before-you-automate)
-- [Why More Marketing Activity Doesn't Necessarily Create More Pipeline](https://clarafold.com/insights/marketing-activity-pipeline)
+- [Win-loss interviews: the cheapest GTM research you are not doing](https://clarafold.com/insights/win-loss-interviews)
+- [Build your ICP from closed-won deals, not personas](https://clarafold.com/insights/icp-from-closed-won)
+- [A 90-day GTM plan for seed to Series B companies](https://clarafold.com/insights/90-day-gtm-plan)
+- [GTM agency or first marketing hire? How seed to Series B teams should choose](https://clarafold.com/insights/gtm-agency-or-first-marketing-hire)
+- [Vertical SaaS positioning: sell the workflow, not the platform](https://clarafold.com/insights/vertical-saas-positioning)
+- [Diagnose before you automate: where B2B GTM actually gets stuck](https://clarafold.com/insights/diagnose-before-you-automate)
+- [Why more marketing activity doesn't necessarily create more pipeline](https://clarafold.com/insights/marketing-activity-pipeline)
 
 </details>
 <details><summary><b>ABM</b> · 8</summary>
 
-- [The One-Page Account Plan: What to Write Before the First Touch](https://clarafold.com/insights/one-page-account-plan)
-- [How to Measure ABM When Deals Take Nine Months](https://clarafold.com/insights/measuring-abm-long-sales-cycles)
-- [ABM Tiers Without a Platform: One-to-One, One-to-Few, One-to-Many](https://clarafold.com/insights/abm-tiers-without-a-platform)
-- [ABM or Outbound First? A Decision Rule for Complex B2B](https://clarafold.com/insights/abm-or-outbound-first)
-- [Map the Buying Committee Before You Run ABM](https://clarafold.com/insights/map-the-buying-committee)
-- [Intent Beats List Size: Why Small Segments Outperform Big Sends](https://clarafold.com/insights/intent-beats-list-size)
-- [Competitive Account Intelligence: Grade Your Evidence](https://clarafold.com/insights/grade-your-evidence)
-- [ABM Starts With Account Selection](https://clarafold.com/insights/abm-account-selection)
+- [The one-page account plan: what to write before the first touch](https://clarafold.com/insights/one-page-account-plan)
+- [How to measure ABM when deals take nine months](https://clarafold.com/insights/measuring-abm-long-sales-cycles)
+- [ABM tiers without a platform: one-to-one, one-to-few, one-to-many](https://clarafold.com/insights/abm-tiers-without-a-platform)
+- [ABM or outbound first? A decision rule for complex B2B](https://clarafold.com/insights/abm-or-outbound-first)
+- [Map the buying committee before you run ABM](https://clarafold.com/insights/map-the-buying-committee)
+- [Intent beats list size: why small segments outperform big sends](https://clarafold.com/insights/intent-beats-list-size)
+- [Competitive account intelligence: grade your evidence](https://clarafold.com/insights/grade-your-evidence)
+- [ABM starts with account selection](https://clarafold.com/insights/abm-account-selection)
 
 </details>
 <details><summary><b>Outbound</b> · 6</summary>
 
-- [Signal-Based Outbound: Which Triggers Are Worth Acting On](https://clarafold.com/insights/signal-based-outbound-triggers)
-- [How to Write a Cold Email Opening Line That Earns a Reply](https://clarafold.com/insights/cold-email-first-line)
-- [How Many Follow-Ups? Designing an Email and LinkedIn Cadence](https://clarafold.com/insights/outbound-follow-up-cadence)
-- [Cold Email Deliverability: The Setup Before the Sequence](https://clarafold.com/insights/cold-email-deliverability-setup)
-- [Lead Magnets Should Qualify Buyers, Not Just Capture Emails](https://clarafold.com/insights/lead-magnets-that-qualify)
-- [Outbound Is a System, Not a Sequence](https://clarafold.com/insights/outbound-is-a-system)
+- [Signal-based outbound: which triggers are worth acting on](https://clarafold.com/insights/signal-based-outbound-triggers)
+- [How to write a cold email opening line that earns a reply](https://clarafold.com/insights/cold-email-first-line)
+- [How many follow-ups? Designing an email and LinkedIn cadence](https://clarafold.com/insights/outbound-follow-up-cadence)
+- [Cold email deliverability: the setup before the sequence](https://clarafold.com/insights/cold-email-deliverability-setup)
+- [Lead magnets should qualify buyers, not just capture emails](https://clarafold.com/insights/lead-magnets-that-qualify)
+- [Outbound is a system, not a sequence](https://clarafold.com/insights/outbound-is-a-system)
 
 </details>
 <details><summary><b>RevOps</b> · 6</summary>
 
-- [Define Pipeline Stages by What the Buyer Did, Not the Seller](https://clarafold.com/insights/pipeline-stages-buyer-actions)
-- [CRM Hygiene Before Automation: The Fields That Actually Matter](https://clarafold.com/insights/crm-hygiene-before-automation)
-- [Attribution for Long B2B Sales Cycles: Ask, Then Track](https://clarafold.com/insights/attribution-for-long-sales-cycles)
-- [Lead Scoring Sales Will Trust: Separate Fit From Intent](https://clarafold.com/insights/lead-scoring-fit-and-intent)
-- [The Marketing Metrics That Quietly Lie](https://clarafold.com/insights/metrics-that-lie)
-- [RevOps Is the Infrastructure Behind GTM](https://clarafold.com/insights/revops-infrastructure)
+- [Define pipeline stages by what the buyer did, not the seller](https://clarafold.com/insights/pipeline-stages-buyer-actions)
+- [CRM hygiene before automation: the fields that actually matter](https://clarafold.com/insights/crm-hygiene-before-automation)
+- [Attribution for long B2B sales cycles: ask, then track](https://clarafold.com/insights/attribution-for-long-sales-cycles)
+- [Lead scoring sales will trust: separate fit from intent](https://clarafold.com/insights/lead-scoring-fit-and-intent)
+- [The marketing metrics that quietly lie](https://clarafold.com/insights/metrics-that-lie)
+- [RevOps is the infrastructure behind GTM](https://clarafold.com/insights/revops-infrastructure)
 
 </details>
 <details><summary><b>Content</b> · 7</summary>
 
-- [Writing for Technical Buyers: Proof Over Claims](https://clarafold.com/insights/content-for-technical-buyers)
-- [One Expert Interview, a Month of B2B Content](https://clarafold.com/insights/one-expert-interview-content)
-- [Comment Before You Post: Growing on LinkedIn in a Niche B2B Market](https://clarafold.com/insights/comment-before-you-post)
-- [Build an Owned Audience: Why B2B Teams Need a Newsletter Before Another Channel](https://clarafold.com/insights/build-an-owned-audience)
-- [Distribution Before Content: Go Where Attention Already Is](https://clarafold.com/insights/distribution-before-content)
-- [Community-Led GTM for Technical Buyers](https://clarafold.com/insights/community-led-gtm-technical-buyers)
-- [Founder-Led Content Is Becoming a GTM System](https://clarafold.com/insights/founder-led-content)
+- [Writing for technical buyers: proof over claims](https://clarafold.com/insights/content-for-technical-buyers)
+- [One expert interview, a month of B2B content](https://clarafold.com/insights/one-expert-interview-content)
+- [Comment before you post: growing on LinkedIn in a niche B2B market](https://clarafold.com/insights/comment-before-you-post)
+- [Build an owned audience: why B2B teams need a newsletter before another channel](https://clarafold.com/insights/build-an-owned-audience)
+- [Distribution before content: go where attention already is](https://clarafold.com/insights/distribution-before-content)
+- [Community-led GTM for technical buyers](https://clarafold.com/insights/community-led-gtm-technical-buyers)
+- [Founder-led content is becoming a GTM system](https://clarafold.com/insights/founder-led-content)
 
 </details>
 <details><summary><b>AI</b> · 9</summary>
 
-- [Measuring AI Search Visibility: What to Track Every Month](https://clarafold.com/insights/measuring-ai-search-visibility)
-- [Before You Buy Another AI GTM Tool: Five Questions](https://clarafold.com/insights/before-you-buy-an-ai-gtm-tool)
-- [AI Account Research That Cites Its Sources](https://clarafold.com/insights/ai-account-research-with-sources)
-- [llms.txt for B2B Websites: What It Does, What It Doesn't, and How to Write One](https://clarafold.com/insights/llms-txt-for-b2b)
-- [Test AI GTM Workflows Like Software Before Anyone Trusts the Output](https://clarafold.com/insights/test-ai-workflows-like-software)
-- [Is Your Website Invisible to AI Assistants?](https://clarafold.com/insights/invisible-to-ai-search)
-- [Human-in-the-Loop Agents: Why Every Outbound Message Should Be Approved](https://clarafold.com/insights/human-in-the-loop-agents)
-- [Agent Skills: How to Give Your AI Your GTM Playbook](https://clarafold.com/insights/agent-skills-for-gtm)
-- [What AI Changes About B2B GTM](https://clarafold.com/insights/what-ai-changes)
+- [Measuring AI search visibility: what to track every month](https://clarafold.com/insights/measuring-ai-search-visibility)
+- [Before you buy another AI GTM tool: five questions](https://clarafold.com/insights/before-you-buy-an-ai-gtm-tool)
+- [AI account research that cites its sources](https://clarafold.com/insights/ai-account-research-with-sources)
+- [llms.txt for B2B websites: what it does, what it doesn't, and how to write one](https://clarafold.com/insights/llms-txt-for-b2b)
+- [Test AI GTM workflows like software before anyone trusts the output](https://clarafold.com/insights/test-ai-workflows-like-software)
+- [Is your website invisible to AI assistants?](https://clarafold.com/insights/invisible-to-ai-search)
+- [Human-in-the-loop agents: why every outbound message should be approved](https://clarafold.com/insights/human-in-the-loop-agents)
+- [Agent skills: how to give your AI your GTM playbook](https://clarafold.com/insights/agent-skills-for-gtm)
+- [What AI changes about B2B GTM](https://clarafold.com/insights/what-ai-changes)
 
 </details>
 
